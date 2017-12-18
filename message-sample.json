@@ -1,0 +1,14 @@
+{
+    "overall": {
+        "client": {
+            "ConnectionCount": 0,
+            "MessageCount": 0
+        },
+        "server": {
+            "ConnectionCount": 0,
+            "MessageCount": 0
+        }
+    },
+    "client": [],
+    "server": []
+}
